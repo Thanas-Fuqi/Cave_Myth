@@ -1,6 +1,6 @@
 # **Cave Myth Project**
 
-The Cave Simulator is a 3D simulation based on Plato's [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). In this simulation, users experience what it might be like to be inside the cave described in the allegory, where prisoners are confined and only see shadows on the wall. The simulator aims to provide an interactive way to explore and understand the philosophical themes of reality and perception.
+The Cave Simulator is a 3D simulation based on Plato's [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave). In this simulation, users experience what it might be like to be inside the cave described in the allegory, where prisoners are confined and only see shadows on the wall. The simulator aims to provide an interactive way to explore and understand the philosophical themes of reality and perception. Try-[itch.io](https://nasiol.itch.io/miti-i-shpells?password=LUV-U-1234)
 
 ## **Build Information**
 
